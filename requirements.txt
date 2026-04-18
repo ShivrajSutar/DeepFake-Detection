@@ -2,8 +2,7 @@ fastapi
 uvicorn
 pydantic
 torch
-torchvision          # Deep learning backbone
-opencv-python              # Image & video processing
+torchvision          # Deep learning backbone              
 facenet-pytorch            # MTCNN face detection
 timm                       # Pretrained EfficientNet/XceptionNet
 albumentations             # Image augmentation                # Numerical / frequency analysis
