@@ -1,5 +1,5 @@
 import streamlit as st
-import cv2
+from cv2.version import headless
 import numpy as np
 import tempfile
 import time
