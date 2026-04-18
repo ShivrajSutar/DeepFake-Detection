@@ -37,8 +37,8 @@ Deployment: Scalable container-ready architecture for cloud or local forensic wo
 Installation
 
 Bash
-git clone https://github.com/your-username/Forensic-AI.git
-cd Forensic-AI
+git clone https://github.com/your-username/Forensic-AI.git/n
+cd Forensic-AI/n
 pip install -r requirements.txt
 streamlit run app.py
 Forensic AI: Because in the age of generative synthesis, seeing is no longer believing.
