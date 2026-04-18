@@ -1,4 +1,4 @@
-from cv2.version import headless
+import cv2
 import mediapipe as mp
 import numpy as np
 from mediapipe.tasks import python
