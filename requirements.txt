@@ -1,3 +1,14 @@
+fastapi
+uvicorn
+pydantic
+torch
+torchvision          # Deep learning backbone
+opencv-python              # Image & video processing
+facenet-pytorch            # MTCNN face detection
+timm                       # Pretrained EfficientNet/XceptionNet
+albumentations             # Image augmentation                # Numerical / frequency analysis
+gradio                     # Web UI (optional)
+matplotlib
 streamlit
 mediapipe
 opencv-python-headless
